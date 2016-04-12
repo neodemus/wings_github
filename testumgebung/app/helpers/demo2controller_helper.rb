@@ -1,0 +1,2 @@
+module Demo2controllerHelper
+end
